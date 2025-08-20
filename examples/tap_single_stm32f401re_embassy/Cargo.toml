@@ -21,7 +21,7 @@ embedded-hal = "1.0.0"
 embedded-hal-bus = { version = "0.3", features = ["async"]}
 embedded-io-async = "0.6.1"
 
-iis2dlpc-rs = { path = "../../" }
+iis2dlpc-rs = "1.0.0"
 
 [[bin]]
 name = "tap_single_stm32f401re_embassy"
