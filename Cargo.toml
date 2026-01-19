@@ -13,6 +13,9 @@ description = """
     full scale, multiple power modes, FIFO, and advanced motion detection.
 """
 
+[lib]
+doctest = false
+
 [dependencies]
 bitfield-struct = "0.11.0"
 embedded-hal = "1.0.0"
