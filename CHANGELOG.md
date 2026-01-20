@@ -20,10 +20,17 @@ All notable changes to this project will be documented in this file.
 
 
 
+### Miscellaneous Tasks
+-  Bump version from v1.0.0 to v1.0.1 by @Gioelio
+
+
+
 ### Examples
 -  Cargo.toml now use crates.io version of the driver by @Gioelio
 
 
+### New Contributors
+* @github-actions[bot] made their first contribution
 
 ## [1.0.0] - 2025-08-18
 
