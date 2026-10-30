@@ -2,6 +2,37 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.0] - 2026-10-30
+
+
+
+
+
+
+### Bug Fixes
+-  Replace bisync with bisync2 (v0.3.2)
+-  Change variants for Mode enum by @Gioelio
+
+
+
+### Documentation
+-  Fix online docs.rs documentation by @Gioelio
+-  Update docs and removed useless commands in bsp/.cargo/config.toml by @Gioelio
+-  Improve docs by @Gioelio
+
+
+
+### Features
+- (*bsp*)  Add vscode configuration by @Gioelio
+-  Add bsp project to generalize boards for examples by @Gioelio
+
+
+
+### Miscellaneous Tasks
+-  Update README with instructions for running examples by @Gioelio
+
+
+
 ## [2.0.0] - 2026-01-30
 
 
@@ -67,6 +98,7 @@ All notable changes to this project will be documented in this file.
 ### New Contributors
 * @Gioelio made their first contribution
 
+[2.1.0]: https://github.com/STMicroelectronics/iis2dlpc-rs/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/STMicroelectronics/iis2dlpc-rs/compare/v1.0.1...v2.0.0
 [1.0.1]: https://github.com/STMicroelectronics/iis2dlpc-rs/compare/v1.0.0...v1.0.1
 
