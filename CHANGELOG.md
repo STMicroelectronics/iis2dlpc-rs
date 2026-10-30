@@ -10,7 +10,7 @@ All notable changes to this project will be documented in this file.
 
 
 ### Bug Fixes
--  Replace bisync with bisync2 (v0.3.2)
+-  Replace bisync with bisync2 (v0.3.2) by @avisconti
 -  Change variants for Mode enum by @Gioelio
 
 
@@ -29,9 +29,12 @@ All notable changes to this project will be documented in this file.
 
 
 ### Miscellaneous Tasks
+- (*release*)  Prepare v2.1.0 by @avisconti
 -  Update README with instructions for running examples by @Gioelio
 
 
+### New Contributors
+* @avisconti made their first contribution
 
 ## [2.0.0] - 2026-01-30
 
